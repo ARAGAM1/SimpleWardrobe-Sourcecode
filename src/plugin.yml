@@ -1,0 +1,9 @@
+name: SimpleWardrobe
+version: 1.0
+main: de.ProgrammiererNoob.SW.Main
+author: ProgrammiererNoob
+description: Nope :)
+commands:
+   wardrobe:
+      description: Main command from SimpleWardrobe.
+      usage: /wardrobe [reload]
